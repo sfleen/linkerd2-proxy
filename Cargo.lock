@@ -2957,7 +2957,6 @@ dependencies = [
  "once_cell",
  "pin-project-lite",
  "thiserror 1.0.69",
- "tracing",
 ]
 
 [[package]]
